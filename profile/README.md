@@ -21,7 +21,7 @@ C++ Programming for Election Integrity Systems: Through the use of C++ programmi
 
 Machine Learning & AI for Data Pattern Recognition: By utilizing machine learning algorithms and artificial intelligence, AYEO can identify voting patterns that could indicate fraudulent behavior, such as unusual spikes in voting turnout or suspicious voter activity. These smart systems help observers predict and analyze the fairness of elections in real-time, increasing the chances of preventing rigging before it even happens.
 
-The Heart of AYEO – The Youth:
+The Heart of AYEO – The Youth
 
 At the core of Afrique Youth Election Observers is the unshakable belief in the power of Africa’s youth. 
 Through the training and deployment of young election monitors, AYEO is building a generation of leaders equipped with the technical skills to safeguard democracy. 
@@ -47,11 +47,19 @@ Whether through technology sharing, funding, or advocacy, your support is invalu
 Advocate: Use your platform to amplify our message. Share AYEO’s mission with your community, on social media, and at public events. 
 Spread the word and inspire others to join the fight for electoral integrity. Together, We Can Build a Future of True Democracy.
 
+:![bitcoin address for afrique youth election observers_edited](https://github.com/user-attachments/assets/a4d88182-c3c5-4deb-a2a0-3f3bcc3cbfbe)
+
 When you support Afrique Youth Election Observers, you’re not just supporting an organization you’re supporting a future where every voice matters. 
 With youth at the forefront, we’re bringing a new wave of innovation, accountability, and transparency to elections across Africa. 
 Our mission is clear: to ensure that the youth of today and tomorrow have the power to vote freely and fairly, without fear of manipulation or corruption.
 
-Contact Us:
+
+
+
+
+Contact Us
+
+Email:afriqueobservers@yahoo.com
 
 Join us in shaping a democratic Africa, where the vote is truly the voice of the people. 
 Together, we can eliminate vote rigging and ensure every election is a victory for democracy.
