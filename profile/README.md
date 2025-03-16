@@ -1,3 +1,8 @@
+
+![afrique youth](https://github.com/user-attachments/assets/74c3aa28-815c-4cee-b7d4-7a2c4a7b9e31)
+
+
+
 In a world where democracy is the cornerstone of a prosperous future, one organization is standing up to ensure the integrity of elections across Africa. Introducing Afrique Youth Election Observers (AYEO)—a pioneering youth-led initiative dedicated to safeguarding electoral processes, and committed to eliminating the threat of vote rigging that has plagued many African nations.
 
 Afrique Youth Election Observers was born from the desire to bring transparency, honesty, and accountability to elections. With a clear mission to combat electoral fraud and empower Africa’s youth, 
