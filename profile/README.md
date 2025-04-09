@@ -1,22 +1,19 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Welcome @Afrique-Youth-Election-Observers</h1>
 <h3 align="center">Afrique Youth Election Observers (AYEO) is a youth-led initiative dedicated to safeguarding the integrity of elections across Africa, combating vote rigging, 
-  and promoting transparency and accountability in democratic processes. The organization leverages technology, innovation, and the power of young volunteers to ensure fair elections. 
+and promoting transparency and accountability in democratic processes. The organization leverages technology, innovation, and the power of young volunteers to ensure fair elections. 
  
-  By using drones for real-time surveillance, SQL databases for data analysis, C++ programming for secure systems, and machine learning for detecting fraudulent patterns,
-  AYEO is transforming election observation in Africa. At its core, AYEO believes in empowering Africa’s youth to lead the charge for electoral integrity. 
-  The organization   trains and deploys young volunteers who act as the eyes and ears of the election process, ensuring fairness in urban and rural areas alike.
+By using drones for real-time surveillance, SQL databases for data analysis, C++ programming for secure systems, and machine learning for detecting fraudulent patterns,
+AYEO is transforming election observation in Africa. At its core, AYEO believes in empowering Africa’s youth to lead the charge for electoral integrity. 
   
-  Through workshops, boot camps, and educational campaigns, AYEO equips the youth with the skills and knowledge necessary to safeguard democracy. 
+The organization trains and deploys young volunteers who act as the eyes and ears of the election process, ensuring fairness in urban and rural areas alike.
+Through workshops, boot camps, and educational campaigns, AYEO equips the youth with the skills and knowledge necessary to safeguard democracy. 
   
 AYEO invites support from individuals, organizations, and communities to help fund its mission, volunteer, and create strategic partnerships. 
 With financial contributions, volunteers, and advocacy, AYEO strives to create a future where every election is free from manipulation and every vote counts.
   
 By supporting AYEO, individuals contribute to a future where African youth drive innovation, accountability, and transparency in elections, ensuring a democratic Africa where the voice of the people truly matters.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=@Afrique-Youth-Election-Observers &label=Profile%20views&color=0e75b6&style=flat" alt="Afrique-Youth-Election-Observers " /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=@Afrique-Youth-Election-Observers &theme=" alt="Afrique-Youth-Election-Observers " /></a> </p>
 
 
 - 📫 How to reach us **afriqueobservers@yahoo.com**
@@ -169,9 +166,6 @@ By supporting AYEO, individuals contribute to a future where African youth drive
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Afrique-Youth-Election-Observers &show_icons=true&locale=en&theme=" alt="Afrique-Youth-Election-Observers " /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Afrique-Youth-Election-Observers &theme=" alt="Afrique-Youth-Election-Observers " /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
