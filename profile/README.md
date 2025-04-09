@@ -1,10 +1,15 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Welcome @Afrique-Youth-Election-Observers</h1>
+<h3 align="center">Afrique Youth Election Observers (AYEO) is a youth-led initiative dedicated to safeguarding the integrity of elections across Africa, combating vote rigging, and promoting transparency and accountability in democratic processes. The organization leverages technology, innovation, and the power of young volunteers to ensure fair elections. By using drones for real-time surveillance, SQL databases for data analysis, C++ programming for secure systems, and machine learning for detecting fraudulent patterns, AYEO is transforming election observation in Africa. At its core, AYEO believes in empowering Africa’s youth to lead the charge for electoral integrity. The organization trains and deploys young volunteers who act as the eyes and ears of the election process, ensuring fairness in urban and rural areas alike. Through workshops, boot camps, and educational campaigns, AYEO equips the youth with the skills and knowledge necessary to safeguard democracy. AYEO invites support from individuals, organizations, and communities to help fund its mission, volunteer, and create strategic partnerships. With financial contributions, volunteers, and advocacy, AYEO strives to create a future where every election is free from manipulation and every vote counts. By supporting AYEO, individuals contribute to a future where African youth drive innovation, accountability, and transparency in elections, ensuring a democratic Africa where the voice of the people truly matters.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Afrique-Youth-Election-Observers &label=Profile%20views&color=0e75b6&style=flat" alt="Afrique-Youth-Election-Observers " /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Afrique-Youth-Election-Observers &theme=" alt="Afrique-Youth-Election-Observers " /></a> </p>
 
+
+- 📫 How to reach me **afrique0bservers@yahoo.com**
+
 <div> <a href="https://github.com/Afrique-Youth-Election-Observers " target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:afrique0bservers@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>
