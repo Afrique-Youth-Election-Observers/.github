@@ -13,12 +13,13 @@ AYEO invites support from individuals, organizations, and communities to help fu
 With financial contributions, volunteers, and advocacy, AYEO strives to create a future where every election is free from manipulation and every vote counts.
   
 By supporting AYEO, individuals contribute to a future where African youth drive innovation, accountability, and transparency in elections, ensuring a democratic Africa where the voice of the people truly matters.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Afrique-Youth-Election-Observers &label=Profile%20views&color=0e75b6&style=flat" alt="Afrique-Youth-Election-Observers " /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Afrique-Youth-Election-Observers &theme=" alt="Afrique-Youth-Election-Observers " /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=@Afrique-Youth-Election-Observers &label=Profile%20views&color=0e75b6&style=flat" alt="Afrique-Youth-Election-Observers " /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=@Afrique-Youth-Election-Observers &theme=" alt="Afrique-Youth-Election-Observers " /></a> </p>
 
 
-- 📫 How to reach us **afrique0bservers@yahoo.com**
+- 📫 How to reach us **afriqueobservers@yahoo.com**
 
 <div> <a href="https://github.com/Afrique-Youth-Election-Observers " target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:afrique0bservers@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
